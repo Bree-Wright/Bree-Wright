@@ -3,7 +3,7 @@
 
 Hey, I'm Bretia, I am open to participating in outsourcing projects where I can apply my technical skills to solve real-world problems, deliver data-driven insights, and contribute to project success.
 I have a passion for turning complex data into actionable insights. My toolkit includes SQL for efficient database management and deep-dive analyses, and Python for versatile data manipulation and scripting. I'm proficient in Google Sheets and Excel, utilizing advanced functions and pivot tables to make data both accessible and understandable. I also enjoy creating clear visual narratives with Tableau and Power BI, ensuring data tells a compelling story. My commitment to data integrity is unwavering, as I prioritize accuracy and consistency in every project. 
-I have a passion for turning complex data into actionable insights. My toolkit includes SQL for efficient database management and deep-dive analyses, and Python for versatile data manipulation and scripting. I'm proficient in Google Sheets and Excel, utilizing advanced functions and pivot tables to make data both accessible and understandable. I also enjoy creating clear visual narratives with Tableau and Power BI, ensuring data tells a compelling story. My commitment to data integrity is unwavering, as I prioritize accuracy and consistency in every project. 
+
 
 I'm a data enthusiast with hands-on experience analyzing e-commerce trends, optimizing delivery routes, and fine-tuning workflows for efficiency.
 When I’m not diving into SQL projects or crafting data visualizations, I’m likely longboarding, writing my novel, or playing any sport I can jump into. 
