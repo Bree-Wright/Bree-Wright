@@ -1,7 +1,7 @@
 
 
 
-Hey, I'm Bretia, I am open to participating in outsourcing projects where I can apply my technical skills to solve real-world problems, deliver data-driven insights, and contribute to project success.
+Hey, I'm Bree, I am open to participating in outsourcing projects where I can apply my technical skills to solve real-world problems, deliver data-driven insights, and contribute to project success.
 I have a passion for turning complex data into actionable insights. My toolkit includes SQL for efficient database management and deep-dive analyses, and Python for versatile data manipulation and scripting. I'm proficient in Google Sheets and Excel, utilizing advanced functions and pivot tables to make data both accessible and understandable. I also enjoy creating clear visual narratives with Tableau and Power BI, ensuring data tells a compelling story. My commitment to data integrity is unwavering, as I prioritize accuracy and consistency in every project. 
 
 
