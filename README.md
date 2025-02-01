@@ -16,4 +16,4 @@ A few things I enjoy:
 🧩 Avid problem-solver, whether in analytics, creative pursuits, or sports strategy.
 🌱 Lifelong learner, balancing technical projects with creative hobbies like writing and longboarding.
 ✈️ Experienced traveler, open to new cultures and environments, fostering adaptability and inspiration for writing.
-"My goal for 2025 is to secure a remote position where I can grow, contribute meaningfully, and become a valued, long-term member of a dedicated team. 🌍"
+"My goal for 2025 is to secure a career  where I can grow, contribute meaningfully, and become a valued, long-term member of a dedicated team. 🌍"
